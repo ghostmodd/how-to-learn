@@ -1,4 +1,0 @@
-.link-decoration_opacity_dim:hover{
-    opacity: 0.5;
-    transition: opacity .1s;
-}
