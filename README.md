@@ -30,6 +30,3 @@
 ## Контакт:
 * E-mail: ghostmodd@yandex.ru
 * TG: @ghostmodd
-#
-#
-#
