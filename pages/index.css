@@ -2,8 +2,8 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
 
-/* напоминание: раскомментить link-decoration.css*/
-@import url(../blocks/link-decoration/_opacity/link-decoration__opacity.css);
+/* напоминание: сделать микс для text-decoration для ссылок*/
+@import url(../blocks/ts-opacity-dim/ts-opacity-dim.css);
 
 /* HEADER */
 @import url(../blocks/header/header.css);
