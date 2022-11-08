@@ -1,9 +1,12 @@
-@keyframes rotate{
-    from{
+@keyframes rotate {
+    from {
         transform: rotate(0deg);
     }
-
-    to{
+    to {
         transform: rotate(360deg);
     }
+}
+
+.rotation {
+    animation: rotate 20s linear infinite;
 }
